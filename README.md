@@ -1,7 +1,7 @@
 Hi 👋 My name is Chaihcan Janramtrai
 ===========================================================================================================================================
 
-* 🖥️  See my portfolio at [MyPortfolio](http://portfolio-three-bice-48.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](http://portfolio-three-bice-48.vercel.app/)
 
 ### Skills
 
