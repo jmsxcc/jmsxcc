@@ -1,7 +1,7 @@
 Hi 👋 My name is Chaihcan Janramtrai
 ===========================================================================================================================================
 
-* 🖥️  See my portfolio at [My Portfolio](https://portfolio-sepia-nu-30.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://portfolio-livid-kappa-66.vercel.app/)
 
 ### Skills
 
